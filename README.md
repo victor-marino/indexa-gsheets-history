@@ -31,14 +31,14 @@ If something went wrong, you can take a look at the error messages in the log to
 
 ## Scheduling runs
 
-Now all that's left is to program the script so that it runs everyday on its own, without any human interaction.
+Now all that's left is to program the script so that it runs everyday on its own, without any human intervention.
 
 To do this, just head over to `Triggers` in the left side menu, then click the `+ Add Trigger` button:
 
 ![Captura de pantalla 2024-02-29 a las 19 39 36](https://github.com/victor-marino/indexa-gsheets-history/assets/1933443/3b4113a3-962f-43d3-aaf7-28d66fda04ab)
 
 * Function to run: `run`
-* Deployment to run: `Main`
+* What to run: `Main`
 * Event source: `Time-driven`
 * Type of time based trigger: `Day timer`
 * Time of day: `12:00 to 13:00` (or whatever you prefer)
