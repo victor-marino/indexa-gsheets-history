@@ -1,4 +1,4 @@
-# Indexa Capital Google Sheets history
+# Description
 You can use this Google Apps Script to automate the process of fetching your daily account positions from Indexa Capital and writing them to a Google Sheet file in your own Google account.
 
 Useful for:
