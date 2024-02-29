@@ -5,7 +5,7 @@ Your account data is accessed securely by using Indexa's [official API](https://
 
 This can be useful for:
 * Keeping an offline history of the value of your portfolio in your own spreadsheets, without having to access your Indexa Capital account or pull out any exports.
-* Build the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed people.
+* Building the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed people.
 
 # Usage
 
