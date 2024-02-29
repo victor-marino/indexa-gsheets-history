@@ -1,6 +1,6 @@
 // SETTINGS //
-var token = "API_TOKEN"; // Your Indexa Capital API token
-var accountNumber = "ACCOUNT_NUMBER"; // Your Indexa Capital account number
+var token = "YOUR_API_TOKEN"; // Your Indexa Capital API token
+var accountNumber = "YOUR_ACCOUNT_NUMBER"; // Your Indexa Capital account number
 var filename = "FILE NAME"; // Desired name for the Google Sheets file. Will be created if it doesn't exist.
 var newestOnTop = false; // Set to true if you want the table sorted from newest to oldest
 //////////////
