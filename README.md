@@ -11,7 +11,7 @@ This can be useful to:
 # Usage
 
 ## Setting up the script
-1. Go to script.google.com and start a new project.
+1. Go to [script.google.com](https://script.google.com) and start a new project.
 3. In the code editor, delete the existing code and paste everything from the [code.gs](https://github.com/victor-marino/indexa-gsheets-history/blob/master/code.gs) file found in this repository.
 4. Replace `YOUR_API_TOKEN` with your Indexa Capital API token. Instructions on how to obtain it [here](https://support.indexacapital.com/es/esp/introduccion-api).
 5. Replace `YOUR_ACCOUNT_NUMBER` with the number of the account you want to monitor. It is an 8-character alphanumeric code that you can see in the web/app when browsing your account.
