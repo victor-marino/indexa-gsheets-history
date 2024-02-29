@@ -1,6 +1,10 @@
 # Indexa Capital Google Sheets history
 You can use this Google Apps Script to automate the process of fetching your daily account positions from Indexa Capital and writing them to a Google Sheet file in your own Google account.
 
+Useful for:
+* Keeping track of the value of your portfolio within your own spreadsheets, without having to login to your account or pull out any exports.
+* Build the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed workers.
+
 # Usage
 
 ## Setting up the script
@@ -45,6 +49,8 @@ To do this, just head over to `Triggers` in the left side menu, then click the `
 
 ![Captura de pantalla 2024-02-29 a las 19 45 35](https://github.com/victor-marino/indexa-gsheets-history/assets/1933443/255a014f-f785-4fe3-9578-50227f8fb9d0)
 
-And that's it! You're all set.
+And that's it! Press `Save` and you're all set.
 
-The script should run daily and update all you positions in the spreadsheet on its own, assuming there is new data. Remember funds are not updated in bank holidays and other special dates.
+The script should run daily from now on, updating all your positions in the spreadsheet if there is new data.
+
+Remember mutual funds and pension plans do not update their prices in bank holidays and other special dates, so some days the script will have nothing to add to the table.
