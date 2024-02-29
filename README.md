@@ -48,6 +48,7 @@ To do this, just head over to `Triggers` in the left side menu, then click the `
 
 ![Captura de pantalla 2024-02-29 a las 19 39 36](https://github.com/victor-marino/indexa-gsheets-history/assets/1933443/3b4113a3-962f-43d3-aaf7-28d66fda04ab)
 
+Then configure the new trigger as follows:
 * Function to run: `run`
 * What to run: `Main`
 * Event source: `Time-driven`
