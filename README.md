@@ -5,7 +5,7 @@ Your account data is accessed securely by using Indexa's [official API](https://
 
 This can be useful to:
 * Keep an offline, up-to-date history of the value of your assets within your own documents.
-* Build your own historical charts and Google Sheets integrations without having to poll Indexa's API for past data.
+* Build your own historical charts and Google Sheets integrations without depending on Indexa or their API for past data.
 * Build the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed people.
 
 # Usage
