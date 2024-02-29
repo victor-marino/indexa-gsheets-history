@@ -32,7 +32,7 @@ Now hit the `Run` button:
 
 ![Captura de pantalla 2024-02-29 a las 19 17 59](https://github.com/victor-marino/indexa-gsheets-history/assets/1933443/8c10257e-ffe9-4eba-abf3-7054e1d2b1db)
 
-Since this is the first run, the script will prompt you for all the required permissions to work with your Google Drive files. Once you grant them, the script should go ahead and create a new spreadsheet containing one sheet per instrument in your account (e.g.: one sheet per index fund). If the result looks like this, all went well:
+Since this is the first run, the script will prompt you for all the required permissions to work with your Google Drive files. Once you grant them, the script should go ahead and create the necessary sheets to store the data (e.g.: one sheet per mutual fund). The result should look like this:
 
 ![Captura de pantalla 2024-02-29 a las 19 34 33](https://github.com/victor-marino/indexa-gsheets-history/assets/1933443/50ae6fac-312d-4116-a65d-e6d93b4df70a)
 
