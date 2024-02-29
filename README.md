@@ -3,8 +3,8 @@ You can use this Google Apps Script to automate the process of fetching your dai
 
 Your account data is accessed securely by using Indexa's [official API](https://support.indexacapital.com/es/esp/introduccion-api)
 
-Useful for:
-* Keeping track of the value of your portfolio within your own spreadsheets, without having to login to your account or pull out any exports.
+This can be useful for:
+* Keeping an offline history of the value of your portfolio in your own spreadsheets, without having to access your Indexa Capital account or pull out any exports.
 * Build the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed people.
 
 # Usage
