@@ -43,4 +43,8 @@ To do this, just head over to `Triggers` in the left side menu, then click the `
 * Type of time based trigger: `Day timer`
 * Time of day: `12:00 to 13:00` (or whatever you prefer)
 
-And you're all set! The script should run daily and update your spreadsheet on its own if there is new data.
+![Captura de pantalla 2024-02-29 a las 19 45 35](https://github.com/victor-marino/indexa-gsheets-history/assets/1933443/255a014f-f785-4fe3-9578-50227f8fb9d0)
+
+And that's it! You're all set.
+
+The script should run daily and update all you positions in the spreadsheet on its own, assuming there is new data. Remember funds are not updated in bank holidays and other special dates.
