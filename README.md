@@ -18,7 +18,7 @@ This can be useful to:
 ## Configuring your settings
 1. Replace `YOUR_API_TOKEN` with your Indexa Capital API token. Instructions on how to obtain it [here](https://support.indexacapital.com/es/esp/introduccion-api).
 2. Replace `YOUR_ACCOUNT_NUMBER` with the number of the account you want to monitor. It is an 8-character alphanumeric code that you can see in the web/app when browsing your account.
-3. Enter the name of the Google Sheets file where you want to store the data. If it doesn't exist, it will be created. If it exists, sheets will be created inside it to store the data.
+3. Enter the name of the Google Sheets file where you want to store the data. If it doesn't exist, it will be created. If it exists, new sheets will be added to it to store the data.
 4. If you want the resulting tables to be sorted from newest to oldest, set `newestOnTop` to `true`. This will ensure the latest value is always at the top.
 
 Time for a test run!
