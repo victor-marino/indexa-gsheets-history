@@ -3,9 +3,10 @@ You can use this Google Apps Script to automatically fetch your daily account po
 
 Your account data is accessed securely by using Indexa's [official API](https://support.indexacapital.com/es/esp/introduccion-api).
 
-This can be useful for:
-* Keeping an offline history of the value of your portfolio in your own spreadsheets, without having to access your Indexa Capital account or pull out any exports.
-* Building the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed people.
+This can be useful to:
+* Keep an offline, up-to-date history of the value of your assets within your own documents.
+* Build your own historical charts and Google Sheets integrations without having to poll Indexa's API for past data.
+* Build the price history of instruments that do not have a publicly available NAV, such as Indexa's own pension plans for self-employed people.
 
 # Usage
 
