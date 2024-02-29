@@ -10,14 +10,16 @@ This can be useful to:
 
 # Usage
 
-## Setting up the script
+## Creating the project
 1. Go to [script.google.com](https://script.google.com) and create a new project.
-3. In the code editor, delete the existing code and paste everything from the [code.gs](https://github.com/victor-marino/indexa-gsheets-history/blob/master/code.gs) file found in this repository.
-4. Replace `YOUR_API_TOKEN` with your Indexa Capital API token. Instructions on how to obtain it [here](https://support.indexacapital.com/es/esp/introduccion-api).
-5. Replace `YOUR_ACCOUNT_NUMBER` with the number of the account you want to monitor. It is an 8-character alphanumeric code that you can see in the web/app when browsing your account.
-6. Choose a file name for the spreadsheet where the data will be stored. If it doesn't exist, it will be created. If it exists, sheets will be created inside it to store the data.
-7. If you want the resulting tables to be sorted from newest to oldest, set `newestOnTop` to `true`. This will ensure the latest value is always at the top.
-8. Give a name to your project and save it. Can be anything you want.
+2. In the code editor, delete the existing code and paste everything from the [code.gs](https://github.com/victor-marino/indexa-gsheets-history/blob/master/code.gs) file found in this repository.
+3. Give a name to your project and save it.
+
+## Configuring your settings
+1. Replace `YOUR_API_TOKEN` with your Indexa Capital API token. Instructions on how to obtain it [here](https://support.indexacapital.com/es/esp/introduccion-api).
+2. Replace `YOUR_ACCOUNT_NUMBER` with the number of the account you want to monitor. It is an 8-character alphanumeric code that you can see in the web/app when browsing your account.
+3. Choose a file name for the spreadsheet where the data will be stored. If it doesn't exist, it will be created. If it exists, sheets will be created inside it to store the data.
+4. If you want the resulting tables to be sorted from newest to oldest, set `newestOnTop` to `true`. This will ensure the latest value is always at the top.
 
 Time for a test run!
 
