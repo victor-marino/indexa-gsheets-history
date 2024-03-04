@@ -61,4 +61,4 @@ And that's it! Press `Save` and you're all set.
 
 The script should run daily from now on, updating all your positions in the spreadsheet if there is new data.
 
-Remember mutual funds and pension plans do not update their prices in bank holidays and other special dates, so some days the script will have nothing to add to the table.
+Remember mutual funds and pension plans do not update their prices in bank holidays and other special dates, so you can expect repeated values in those cases.
